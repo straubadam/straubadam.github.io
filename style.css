@@ -1,3 +1,16 @@
-#b325 {
- color: red;
+.asteroid.b326, #b325 {
+    border: solid 1px green;
+    width: 200px;
+}
+
+.b329, .b326, #b325 {
+    font-weight: bold;
+}
+
+.big {
+    color: blue;
+}
+
+p {
+    background-color: yellow;
 }
